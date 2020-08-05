@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 <img align="left" alt="jeremyNCH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeremyNCH&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="jeremyNCH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyNCH&hide_border=true" />
 
-[email]: jeremyafoke@gmail.com
+[email]: mailto:jeremyafoke@gmail.com
 [linkedin]: https://www.linkedin.com/in/jeremy-afoke/
