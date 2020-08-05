@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
 <img align="left" alt="Go" width="26px" src="https://avatars1.githubusercontent.com/u/4314092?s=200&v=4" />
 <img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/svg/919/919852.svg" />
-<img align="left" alt="Solidity" width="26px" src="https://github.com/ethereum/solidity/raw/v0.7.0/docs/logo.svg" />
+<img align="left" alt="Solidity" width="30px" src="https://github.com/ethereum/solidity/raw/v0.7.0/docs/logo.svg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
 <!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
