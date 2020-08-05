@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 
 ### Technologies:
 
-<img align="left" alt="Node.js" width="26px" src="https://camo.githubusercontent.com/9c24355bb3afbff914503b663ade7beb341079fa/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667" />
-<img align="left" alt="Sails.js" width="26px" src="https://camo.githubusercontent.com/9e49073459ed4e0e2687b80eaf515d87b0da4a6b/687474703a2f2f62616c64657264617368792e6769746875622e696f2f7361696c732f696d616765732f6c6f676f2e706e67" />
-<img align="left" alt="Spring Boot" width="26px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
-<img align="left" alt="Flask" width="26px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" />
-<img align="left" alt="React" width="26px" src="https://avatars0.githubusercontent.com/u/6412038?s=200&v=4" />
-<img align="left" alt="Next.js" width="26px" src="https://camo.githubusercontent.com/0bbf728fe4c8b213f3723eaac321fbb30e68be19/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Sails.js" width="60px" src="https://camo.githubusercontent.com/9e49073459ed4e0e2687b80eaf515d87b0da4a6b/687474703a2f2f62616c64657264617368792e6769746875622e696f2f7361696c732f696d616765732f6c6f676f2e706e67" />
+<img align="left" alt="Spring Boot" width="80px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+<img align="left" alt="Flask" width="60px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<!-- <img align="left" alt="Next.js" width="100px" src="https://camo.githubusercontent.com/0bbf728fe4c8b213f3723eaac321fbb30e68be19/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313533383336313039312f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6a732e706e67" /> -->
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />
 <img align="left" alt="Docker" width="26px" src="https://avatars0.githubusercontent.com/u/5429470?s=200&v=4" />
