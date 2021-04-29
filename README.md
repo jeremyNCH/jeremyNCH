@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm a 4th year Mechatronics Engineering student at the University of Waterloo
 
-- 🔭 I’m currently working on a production grade e-commerce event-driven microservice
-- 🌱 I’m currently learning how to build autonomous vehicles as a hobby
-- 🤔 2020 Goals: Enhance my software engineering skills
+<!-- - 🔭 I’m currently working on a production grade e-commerce event-driven microservice -->
+<!-- - 🌱 I’m currently learning how to build autonomous vehicles as a hobby -->
+- 🤔 2021 Goals: Enhance my software engineering skills
 - ⚡ Fun fact: I am fluent in french and love to play table tennis
 
 ### Connect with me:
